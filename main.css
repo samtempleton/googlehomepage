@@ -1,14 +1,13 @@
 body{
-	font-size: 10pt;
+	font-size: 13px;
 	font-family: arial, sans-serif;
+	color: black;
 }
-
-
-
 
 .navbar {
 	display: block;
 	float: right;
+
 }
 
 .navbar li{
@@ -22,12 +21,10 @@ body{
 	top: 7px;
 }
 
+.sign_in{
+	border-radius: 3px;
 
-
-
-
-
-
+}
 
 .container_main {
 	display: block;
