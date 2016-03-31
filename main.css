@@ -1,0 +1,61 @@
+body {
+	font-family: arial, sans-serif;
+	background-color: white;
+	font-size: small;
+	color: black;
+
+}
+
+a {
+	text-decoration: none;
+	color: black;
+
+}
+
+
+#nav ul {
+    margin: 0;
+    padding: 0;
+    float: right;
+    list-style-type: none;
+}
+
+#nav li {
+	display: inline;
+
+}
+
+
+#logo {
+	background-size: 272px 92px;
+	height: 92px;
+	width: 272px;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	padding-top:112px;
+
+}
+
+#main {
+	text-align: center;
+}
+
+#footer {
+	position: absolute;
+	bottom: 0;
+	width: 100%;
+
+}
+
+#footer li {
+	display: inline;
+}
+
+.leftfooter {
+	float: left;
+}
+
+.rightfooter {
+	float: right;
+}
